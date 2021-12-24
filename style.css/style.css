@@ -1,0 +1,120 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p,a,input,label,textarea,span,ul,li{
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    color: #707070;
+}
+p.lead{
+    font-family: 'Noto Sans TC', sans-serif;
+    color: black;
+}
+
+#intro .p-5 {
+    height: 70vh;
+    margin-bottom: 0px;
+}
+#intro h1{
+    line-height: 1.5;
+    font-weight:100;
+    font-size: 50px;
+}
+.btn{
+    background: #F05F5C;
+    COLOR: WHITE;
+    PADDING: 10PX 25PX;
+    BORDER-RADIUS: 20PX;
+}
+#intro .container{
+    position: relative;
+    top:50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+header nav img{
+    width: 135px;
+}
+header li{
+    MARGIN: 0px 10PX;
+}
+#second h3{
+    padding: 50px 0;
+    font-size: 36px;
+    line-height: 1.5;
+    margin-bottom: 80px;
+}
+#second img{
+    width:100px;
+    height: 100px;
+    border-radius: 100%;
+}
+#second h5{
+    padding: 30px 0;
+}
+#second{
+    margin-bottom: 80px;
+}
+#third{
+    padding: 80px;
+    background-color: rgb(249, 249, 253);
+}
+#third h3{
+    margin-bottom: 80px;
+}
+#third img{
+    max-width: 100%;
+    height: 350px;
+}
+#third  .innertext h3{
+    padding: 50px 0;
+    font-size: 36px;
+    line-height: 1.5;
+    margin-bottom: 80px;
+}
+#third .innertext{
+    POSITION: absolute;
+    BOTTOM: 22PX;
+    LEFT: 20PX;
+    color: rgb(244, 248, 244);
+}
+#third .upper{
+    position: relative;
+}
+#third span{
+    background-color: rgba(253, 253, 253, 0.2);
+    padding: 8px 12px;
+    border-radius: 15%;
+    opacity: 1;
+}
+#third h4{
+    font-size: 20px;
+    margin-top: 15px;
+    
+}
+#third  .lower{
+    padding: 7px 20px 20px 20px;
+}
+#third  .lower h3{
+    font-size: 22px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+#third  .outer{
+    background: white;
+    box-shadow: 0 0  8px 0 rgba(0,0,0,0.08);
+}
+#third a{
+    color: black;
+    text-decoration: none;
+}
+#third a :hover{
+    text-decoration: none;
+}
+.pro_img{
+    height:400px;
+    width: 300px;
+}
